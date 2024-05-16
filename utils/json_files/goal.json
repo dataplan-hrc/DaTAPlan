@@ -1,0 +1,18 @@
+{
+    "prepare lunch": ["roasted roasted_sandwich", "cooked cooked_pasta", "salad_prepared Sliced_Apple Sliced_Avocado Sliced_Banana"],
+    "serve the food": "food_served boiled_eggs plate_2 working_table livingRoom",
+    "prepare medicines": "medicines_provided_at working_table livingRoom",
+    "extinguish the fire": "fireExtinguished kitchen",
+    "serve a drink": "served_drink milk glass_1 working_table livingRoom",
+    "clean the room": ["room_cleaned livingRoom", "room_cleaned kitchen", "room_cleaned bathroom", "room_cleaned storeroom"],
+    "do the laundry": "laundrydone",
+    "dust electronic devices": "electronic_items_Cleaned",
+    "prepare office bag": "bag_prepared laptop apple water_bottle",
+    "prepare clothes": ["prepared_clothes office_clothes ironing_board livingRoom", "prepared_clothes casual_clothes ironing_board livingRoom", "prepared_clothes sports_clothes ironing_board livingRoom", "prepared_clothes party_clothes ironing_board livingRoom"],
+    "wash the dishes": "dishes_cleaned",
+    "throw away remaining food": "cleaned_remaining_food cooked_pasta",
+    "set up office table": "office_ready",
+    "charge the electronic devices": ["charged cellphone", "charged laptop"],
+    "decorate the place": "party_at livingroom",
+    "put remaining food in the fridge": "stuff_at cooked_pasta fridge"
+} 

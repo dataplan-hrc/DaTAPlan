@@ -1,0 +1,98 @@
+{
+    "stove_0":{
+        "global_id": 0,
+        "local_id": 0,
+        "name":"stove",
+        "available": true
+    },
+    "drawer_0":{
+        "global_id": 1,
+        "local_id": 0,
+        "name":"drawer",
+        "available": true
+    },
+    "drawer_1":{
+        "global_id": 2,
+        "local_id": 1,
+        "name":"drawer",
+        "available": true
+    },
+    "dining_table_0":{
+        "global_id": 3,
+        "local_id": 0,
+        "name":"dining_table",
+        "available": true
+    },
+    "fridge_0":{
+        "global_id": 4,
+        "local_id": 0,
+        "name":"fridge",
+        "available": true
+    },
+    "cupboard_0":{
+        "global_id": 5,
+        "local_id": 0,
+        "name":"cupboard",
+        "available": true
+    },
+    "washer_0":{
+        "global_id": 6,
+        "local_id": 0,
+        "name":"washing_machine",
+        "available": true
+    },
+    "dryer_0":{
+        "global_id": 7,
+        "local_id": 0,
+        "name":"dryer",
+        "available": true
+    },
+    "iron_stand_0":{
+        "global_id": 8,
+        "local_id": 0,
+        "name":"iron_stand",
+        "available": true
+    },
+    "floor_0":{
+        "global_id": 9,
+        "local_id": 0,
+        "name":"floor",
+        "available": true
+    },
+    "floor_1":{
+        "global_id": 10,
+        "local_id": 1,
+        "name":"floor",
+        "available": true
+    },
+    "floor_2":{
+        "global_id": 11,
+        "local_id": 2,
+        "name":"floor",
+        "available": true
+    },
+    "bed_1":{
+        "global_id": 12,
+        "local_id": 1,
+        "name":"bed",
+        "available": true
+    },
+    "vacuum_cleaner": {
+        "global_id": 13,
+        "local_id": 0,
+        "name": "vacuum_cleaner",
+        "available": true
+    },
+    "dishwasher": {
+        "global_id": 14,
+        "local_id": 0,
+        "name": "dishwasher",
+        "available": true
+    },
+    "office_table": {
+        "global_id": 15,
+        "local_id": 0,
+        "name": "office_table",
+        "available": true
+    }
+}

@@ -1,0 +1,37 @@
+
+It is morning time, the user hasn't had breakfast yet.
+You see the user perform the task:  
+serve the drink (tea) (location=dining table)
+What do you anticipate to be the next 4 tasks?
+Requirement: The bathroom is very dirty.
+*Eggs are not available*
+
+
+It is afternoon time, the user has completed his lunch
+You see the user perform the task:  
+put leftover food in the fridge
+What do you anticipate to be the next 4 tasks?
+Requirement: To do his office work, the user needs his office table
+*All the dishes are clean*
+
+
+It is the morning on a weekend. The user just woke up
+You see the user perform the task:  
+clean the bathroom (using mop)
+What do you anticipate to be the next 4 tasks?
+Requirement: The cellphone needs charging
+*All the clothes are clean*
+
+It is the afternoon time on a weekend.
+You see the user perform the task:  
+do laundry
+What do you anticipate to be the next 4 tasks?
+Requirement: The storeroom is very dirty
+*Dishwasher is not working*
+
+It is the evening time, and user has not eaten dinner yet.
+You see the user perform the task:  
+prepare clothes (casual)
+What do you anticipate to be the next 4 tasks?
+Requirement: Spoiled food needs to be thrown
+*Rice is not available*

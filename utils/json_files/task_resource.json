@@ -1,0 +1,15 @@
+{
+  "prepare breakfast": "food ingredient",
+  "prepare lunch": "food ingredient",
+  "prepare dinner": "food ingredient",
+  "wash the dishes": [
+    "dishwasher",
+    "dirtydishes"
+  ],
+  "do the laundry": [
+    "washingmachine",
+    "dirtyclothes"
+  ],
+  "clean the room": "vacuumcleaner",
+  "serve a drink": "drink"
+}

@@ -1,0 +1,74 @@
+{
+    "Monday": {
+        "steps": [
+            "Bring item frozen_pizza to receptacle countertop",
+            "Cook item frozen_pizza in receptacle oven",
+            "Cut item frozen_pizza",
+            "Serve item frozen_pizza on receptacle bed"
+        ],
+        "time": "55 minutes"
+    },
+    "Tuesday": {
+        "steps": [
+            "Bring item egg to receptacle countertop",
+            "Clean item egg",
+            "Cook item egg in receptacle microwave",
+            "Serve item egg on receptacle diningtable"
+        ],
+        "time": "55 minutes"
+    },
+    "Wednesday": {
+        "steps": [
+            "Bring item carrot to receptacle countertop",
+            "Bring item broccoli to receptacle countertop",
+            "Bring item lettuce to receptacle countertop",
+            "Clean item carrot",
+            "Clean item broccoli",
+            "Clean item lettuce",
+            "Cut item carrot",
+            "Cut item broccoli",
+            "Cut item lettuce",
+            "Mix items carrot and broccoli in receptacle bowl",
+            "Mix items carrot-broccoli-mix and lettuce in receptacle bowl",
+            "Serve item carrot-broccoli-lettuce-mix on receptacle diningtable"
+        ],
+        "time": "66 minutes"
+    },
+    "Thursday": {
+        "steps": [
+            "Bring item tomato to receptacle countertop",
+            "Bring item lettuce to receptacle countertop",
+            "Bring item potato to receptacle countertop",
+            "Clean item tomato",
+            "Clean item lettuce",
+            "Clean item potato",
+            "Cut item tomato",
+            "Cut item lettuce",
+            "Cut item potato",
+            "Mix items tomato and lettuce in receptacle bowl",
+            "Mix items tomato-lettuce-mix and potato in receptacle bowl",
+            "Serve item tomato-lettuce-potato-mix on receptacle diningtable"
+        ],
+        "time": "66 minutes"
+    },
+    "Friday": {
+        "steps": [
+            "Bring item bread to receptacle countertop",
+            "Bring item butter to receptacle countertop",
+            "Mix items bread and butter in receptacle plate",
+            "Cook item bread-butter-mix in receptacle stove",
+            "Serve item bread-butter-mix on receptacle diningtable"
+        ],
+        "time": "58 minutes"
+    },
+    "Saturday": {
+        "steps": [
+            "Bring item bread to receptacle countertop",
+            "Bring item peanutbutter to receptacle countertop",
+            "Mix items bread and peanutbutter in receptacle plate",
+            "Cook item bread-peanutbutter in receptacle stove",
+            "Serve item bread-peanutbutter-mix on receptacle bed"
+        ],
+        "time": "58 minutes"
+    }
+}

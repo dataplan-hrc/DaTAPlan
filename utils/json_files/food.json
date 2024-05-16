@@ -1,0 +1,56 @@
+{
+  "healthy_bf": [
+    "omelette",
+    "boiled_eggs",
+    "scrambled_eggs",
+    "salad",
+    "mashed_potatoes",
+    "mix_veggy",
+    "fruit_salad",
+    "toast",
+    "cereal"
+  ],
+  "healthy_l": [
+    "rice",
+    "yogurt",
+    "soup",
+    "mix_veggy",
+    "lentil"
+  ],
+  "healthy_d": [
+    "rice",
+    "veggies",
+    "yogurt",
+    "soup",
+    "mix_veggy",
+    "lentil"
+  ],
+  "junk": [
+    "cake",
+    "pizza",
+    "noodles",
+    "pasta",
+    "coke",
+    "ice_tea",
+    "sugary_fruit_juice",
+    "samosa",
+    "fried_rice",
+    "fried_chicken",
+    "chips"
+  ],
+  "drinks": [
+    "water",
+    "coke",
+    "ice_tea",
+    "sugary_fruit_juice",
+    "milk",
+    "coffee",
+    "tea"
+  ],
+  "rooms": [
+    "storeroom",
+    "kitchen",
+    "bathroom",
+    "livingtoom"
+  ]
+}

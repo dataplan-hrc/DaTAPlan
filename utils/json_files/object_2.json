@@ -1,0 +1,106 @@
+{
+    "plate_0": {
+        "receptacle": "drawer",
+        "dirty": true
+    },
+    "plate_1": {
+        "receptacle": "drawer",
+        "dirty": true
+    },
+    "plate_2": {
+        "receptacle": "dining_table",
+        "dirty": false
+    },
+    "carrot_0": {
+        "receptacle": "fridge",
+        "dirty": true
+    },
+    "carrot_1": {
+        "receptacle": "stove",
+        "dirty": true
+    },
+    "potato_0": {
+        "receptacle": "fridge",
+        "dirty": true
+    },
+    "egg_0": {
+        "receptacle": "fridge",
+        "dirty": false
+    },
+    "shirt_0": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "shirt_1": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "bottle_0": {
+        "receptacle": "dining_table",
+        "dirty": false
+    },
+    "iron_0": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "book_0": {
+        "receptacle": "dining_table",
+        "dirty": false
+    },
+    "tomato_0": {
+        "receptacle": "drawer",
+        "dirty": true
+    },
+    "vacuumcleaner": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "gardenhose": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "pant_0": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "pant_1": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "banana_0": {
+        "receptacle": "fridge",
+        "dirty": false
+    },
+    "milk_0": {
+        "receptacle": "fridge",
+        "dirty": false
+    },
+    "canned_soup": {
+        "receptacle": "NOT AVAILABLE",
+        "dirty": false
+    },
+    "watering_can": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "canned_stew": {
+        "receptacle": "drawer",
+        "dirty": false
+    },
+    "medicine_box": {
+        "receptacle": "cupboard",
+        "dirty": false
+    },
+    "tea": {
+        "receptacle": "drawer",
+        "dirty": false
+    },
+    "bread": {
+        "receptacle": "drawer",
+        "dirty": false
+    },
+    "butter": {
+        "receptacle": "fridge",
+        "dirty": false
+    }
+}

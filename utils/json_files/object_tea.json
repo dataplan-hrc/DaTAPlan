@@ -1,0 +1,222 @@
+{
+    "plate_0":{
+        "global_id": 0,
+        "local_id": 0,
+        "name":"plate",
+        "dirty": true,
+        "available": true
+    },
+    "plate_1":{
+        "global_id": 1,
+        "local_id": 1,
+        "name":"plate",
+        "dirty": true,
+        "available": true
+    },
+    "plate_2":{
+        "global_id": 2,
+        "local_id": 2,
+        "name":"plate",
+        "dirty": false,
+        "available": true
+    },
+    "carrot_0":{
+        "global_id": 3,
+        "local_id": 0,
+        "name":"carrot",
+        "dirty": true,
+        "available": true
+    },
+    "carrot_1":{
+        "global_id": 4,
+        "local_id": 1,
+        "name":"carrot",
+        "dirty": true,
+        "available": true
+    },
+    "potato_0":{
+        "global_id": 5,
+        "local_id": 0,
+        "name":"potato",
+        "dirty": true,
+        "available": true
+    },
+    "egg_0":{
+        "global_id": 6,
+        "local_id": 0,
+        "name":"egg",
+        "dirty": false,
+        "available": true
+    },
+    "shirt_0":{
+        "global_id": 7,
+        "local_id": 0,
+        "name":"shirt",
+        "dirty": false,
+        "available": true
+    },
+    "shirt_1":{
+        "global_id": 8,
+        "local_id": 1,
+        "name":"shirt",
+        "dirty": true,
+        "available": true
+    },
+    "bottle_0":{
+        "global_id": 9,
+        "local_id": 0,
+        "name":"bottle",
+        "dirty": false,
+        "available": true
+    },
+    "iron_0":{
+        "global_id": 10,
+        "local_id": 0,
+        "name":"iron",
+        "dirty": false,
+        "available": true
+    },
+    "book_0":{
+        "global_id": 11,
+        "local_id": 0,
+        "name":"book",
+        "dirty": false,
+        "available": true
+    },
+    "tomato_0":{
+        "global_id": 12,
+        "local_id": 0,
+        "name":"tomato",
+        "dirty": true,
+        "available": true
+    },
+    "vacuumcleaner":{
+        "global_id": 13,
+        "local_id": 0,
+        "name":"vacuumcleaner",
+        "dirty": false,
+        "available": true
+    },
+    "gardenhose":{
+        "global_id": 14,
+        "local_id": 0,
+        "name":"gardenhose",
+        "dirty": false,
+        "available": true
+    },
+    "pant_0":{
+        "global_id": 15,
+        "local_id": 0,
+        "name":"pant",
+        "dirty": false,
+        "available": true
+    },
+    "pant_1":{
+        "global_id": 16,
+        "local_id": 1,
+        "name":"pant",
+        "dirty": true,
+        "available": true
+    },
+    "banana_0":{
+        "global_id": 17,
+        "local_id": 0,
+        "name":"banana",
+        "dirty": false,
+        "available": true
+    },
+    "milk_0":{
+        "global_id": 18,
+        "local_id": 0,
+        "name":"milk",
+        "dirty": false,
+        "available": true
+    },
+    "canned_soup":{
+        "global_id": 19,
+        "local_id": 0,
+        "name":"canned_soup",
+        "dirty": false,
+        "available": true
+    },
+    "watering_can":{
+        "global_id": 20,
+        "local_id": 0,
+        "name":"watering_can",
+        "dirty": false,
+        "available": true
+    },
+    "canned_stew":{
+        "global_id": 21,
+        "local_id": 0,
+        "name":"canned_stew",
+        "dirty": false,
+        "available": true
+    },
+    "medicine_box":{
+        "global_id": 22,
+        "local_id": 0,
+        "name":"medicine_box",
+        "dirty": false,
+        "available": true
+    },
+    "tea":{
+        "global_id": 23,
+        "local_id": 0,
+        "name":"tea",
+        "dirty": false,
+        "available": false
+    },
+    "bread":{
+        "global_id": 24,
+        "local_id": 0,
+        "name":"bread",
+        "dirty": false,
+        "available": true
+    },
+    "butter":{
+        "global_id": 25,
+        "local_id": 0,
+        "name":"butter",
+        "dirty": false,
+        "available": true
+    },
+    "coffee":{
+        "global_id": 24,
+        "local_id": 0,
+        "name":"coffee",
+        "dirty": false,
+        "available": false
+    },
+    "frying_pan": {
+        "global_id": 26,
+        "local_id": 0,
+        "name": "frying_pan",
+        "dirty": false,
+        "available": true
+    },
+    "bed_1":{
+        "global_id": 12,
+        "local_id": 1,
+        "name":"bed",
+        "available": true
+    },
+    "vacuum_cleaner": {
+        "global_id": 13,
+        "local_id": 0,
+        "name": "vacuum_cleaner",
+        "available": false
+    },
+    "dishwasher": {
+        "global_id": 14,
+        "local_id": 0,
+        "name": "dishwasher",
+        "available": true
+    },
+    "office_table": {
+        "global_id": 15,
+        "local_id": 0,
+        "name": "office_table",
+        "available": true
+    }
+}

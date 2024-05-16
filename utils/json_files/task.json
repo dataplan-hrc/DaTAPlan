@@ -1,0 +1,20 @@
+{
+    "task_id_1": "prepare breakfast (options = healthy_bf, junk)",
+    "task_id_2": "prepare lunch (options = healthy_l, junk)",
+    "task_id_3": "prepare dinner (options = healthy_d, junk)",
+    "task_id_4": "prepare medicines",
+    "task_id_5": "wash the dishes",
+    "task_id_6": "do the laundry",
+    "task_id_7": "serve the food",
+    "task_id_8": "prepare clothes (options = casual, formal, gym, party)",
+    "task_id_9": "charge the electronic devices",
+    "task_id_11": "prepare the office bag",
+    "task_id_12": "clean the room (room options = livingroom, kitchen, bathroom, storeroom) (object options = vacuum cleaner, mop)",
+    "task_id_13": "set up the office table",
+    "task_id_14": "throw away leftover food",
+    "task_id_15": "put remaining food in the fridge",
+    "task_id_16": "decorate the place",
+    "task_id_17": "serve a drink",
+    "task_id_18": "dust electronic devices",
+    "task_id_19": "extinguish the fire"
+}

@@ -1,0 +1,68 @@
+{
+  "monday": [
+    "Clean the bedroom",
+    "Prepare breakfast (Sandwich) ",
+    "Clean the bathroom",
+    "Prepare lunch (salad)",
+    "Clean the kitchen",
+    "Wash the dishes",
+    "Prepare dinner (grilled salmon)",
+    "Prepare medicines"
+  ],
+  "tuesday": [
+    "Clean the bedroom",
+    "Prepare breakfast (oatmeal)",
+    "Prepare coffee",
+    "Prepare lunch (sandwich)",
+    "Clean the bathroom",
+    "Clean the diningroom",
+    "Prepare dinner (chicken and rice)",
+    "Prepare medicines"
+  ],
+  "wednesday": [
+    "Wash dirty clothes",
+    "Prepare breakfast (banana smoothie)",
+    "Make the bed",
+    "Clean the Room (Pantry Room)",
+    "Prepare lunch (soup)",
+    "Tend to the garden",
+    "Prepare dinner (veg stew)",
+    "Clean the room (bedroom)",
+    "Prepare medicines"
+  ],
+  "thursday": [
+    "Clean the office",
+    "Make the bed",
+    "Prepare tea",
+    "Prepare breakfast (boiled egg)",
+    "Wash the dishes",
+    "Prepare lunch (mixed vegetable curry)",
+    "Set up the office table",
+    "Prepare dinner (pasta)",
+    "Prepare medicines"
+  ],
+  "friday": [
+    "Clean the diningroom",
+    "Prepare breakfast (oatmeal)",
+    "Wash the clothes",
+    "Clean the kitchen",
+    "Prepare Lunch (Spaghetti)",
+    "Clean the office",
+    "Wash the dishes",
+    "Prepare dinner (salmon)",
+    "Prepare medicines"
+  ],
+  "saturday": [
+    "Tend to the garden",
+    "Clean the garden",
+    "Prepare tea",
+    "Prepare breakfast (scrambled egg)",
+    "Clean the gym",
+    "Clean the office",
+    "Prepare lunch (soup)",
+    "Wash the dishes",
+    "Repair the kitchen utensils",
+    "Prepare dinner (mixed vegetable curry)",
+    "Prepare medicines"
+  ]
+}

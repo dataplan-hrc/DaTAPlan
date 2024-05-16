@@ -1,0 +1,29 @@
+{
+  "user 1": {
+    "observation 1": [
+      "prepare office bag",
+      "prepare office clothes",
+      "charge electronic devices",
+      "prepare food",
+      "serve the food"
+    ],
+    "observation 2": [
+      "prepare casual clothes",
+      "prepare food",
+      "serve the food",
+      "prepare medicines",
+      "put remaining food in the fridge"
+    ],
+    "observation 3": [
+      "wash the dishes",
+      "clean the room (kitchen)",
+      "dust the electronic surfaces",
+      "clean the room (livingroom)"
+    ],
+    "description": {
+      "observation 1": "The user is a disciplined employee, who wakes up early morning to prepare for office. They prepare their office bag, office clothes, charge their electronic devices, followed by preparation of a healthy breakfast. Office clothes can only be prepared if they are clean, else the user does laundry before preparation.",
+      "observation 2": "In the evening, the user prepares their casual clothes (if they're clean). Then they prepare and serve a healthy dinner, and take their medicines. After that, they either store the leftover food back in the fridge, or throw it away.",
+      "observation 3": "Before going to sleep, the user makes sure that the house is clean. They clean each room that is dirty, clean the dirty dishes, and dust the electronic devices."
+    }
+  }
+}

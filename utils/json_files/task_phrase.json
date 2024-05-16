@@ -1,0 +1,23 @@
+{
+  "prepare breakfast": "The user is very hungry, and wishes to start the day with a meal.",
+  "prepare lunch": "The user is very hungry",
+  "prepare dinner": "The user is very hungry, and wishes to eat before sleeping.",
+  "prepare medicines": "It is time for the user to take their medication.",
+  "wash the dishes": "All the dishes are very dirty.",
+  "do the laundry": "All the clothes are very dirty.",
+  "prepare clothes (gym)": "User plans to go to the gym, and needs appropriate clothes.",
+  "prepare clothes (office)": "User has an office meeting, and needs appropriate clothes.",
+  "prepare clothes (casual)": "User needs some party clothes.",
+  "charge the electronic devices (cellphone)": "The cellphone needs charging.",
+  "charge the electronic devices (laptop)": "The laptop needs charging.",
+  "prepare office bag": "The user has to go to the office and needs the office bag",
+  "clean the room (storeroom)": "The storeroom is very dirty.",
+  "clean the room (kitchen)": "The kitchen is very dirty.",
+  "clean the room (bathroom)": "The bathroom is very dirty.",
+  "clean the room (living room)": "The living room is very dirty.",
+  "set up the office table": "To do his office work, the user needs his office table.",
+  "throw away leftover food": "Leftover food needs to be thrown",
+  "decorate the place": "The living room needs to be prepared for a party.",
+  "extinguish the fire": "There is a fire in the kitchen."
+}
+

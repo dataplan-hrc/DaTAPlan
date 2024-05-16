@@ -1,0 +1,236 @@
+{
+    "plate_0":{
+        "global_id": 0,
+        "local_id": 0,
+        "name":"plate",
+        "receptacle": "drawer",
+        "room": "kitchen",
+        "fragile": true,
+        "dirty": true
+    },
+    "plate_1":{
+        "global_id": 1,
+        "local_id": 1,
+        "name":"plate",
+        "receptacle": "drawer",
+        "room": "pantry",
+        "fragile": true,
+        "dirty": true
+    },
+    "plate_2":{
+        "global_id": 2,
+        "local_id": 2,
+        "name":"plate",
+        "receptacle": "dining_table",
+        "room": "dining_room",
+        "fragile": true,
+        "dirty": false
+    },
+    "carrot_0":{
+        "global_id": 3,
+        "local_id": 0,
+        "name":"carrot",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": true
+    },
+    "carrot_1":{
+        "global_id": 4,
+        "local_id": 1,
+        "name":"carrot",
+        "receptacle": "stove",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": true
+    },
+    "potato_0":{
+        "global_id": 5,
+        "local_id": 0,
+        "name":"potato",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": true
+    },
+    "egg_0":{
+        "global_id": 6,
+        "local_id": 0,
+        "name":"egg",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": true,
+        "dirty": false
+    },
+    "shirt_0":{
+        "global_id": 7,
+        "local_id": 0,
+        "name":"shirt",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "shirt_1":{
+        "global_id": 8,
+        "local_id": 1,
+        "name":"shirt",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "bottle_0":{
+        "global_id": 9,
+        "local_id": 0,
+        "name":"bottle",
+        "receptacle": "dining_table",
+        "room": "dining_room",
+        "fragile": true,
+        "dirty": false
+    },
+    "iron_0":{
+        "global_id": 10,
+        "local_id": 0,
+        "name":"iron",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "book_0":{
+        "global_id": 11,
+        "local_id": 0,
+        "name":"book",
+        "receptacle": "dining_table",
+        "room": "dining_room",
+        "fragile": false,
+        "dirty": false
+    },
+    "tomato_0":{
+        "global_id": 12,
+        "local_id": 0,
+        "name":"tomato",
+        "receptacle": "drawer",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": true
+    },
+    "vacuumcleaner":{
+        "global_id": 13,
+        "local_id": 0,
+        "name":"vacuumcleaner",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "gardenhose":{
+        "global_id": 14,
+        "local_id": 0,
+        "name":"gardenhose",
+        "receptacle": "cupboard",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": false
+    },
+    "pant_0":{
+        "global_id": 15,
+        "local_id": 0,
+        "name":"pant",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "pant_1":{
+        "global_id": 16,
+        "local_id": 1,
+        "name":"pant",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "banana_0":{
+        "global_id": 17,
+        "local_id": 0,
+        "name":"banana",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": false
+    },
+    "milk_0":{
+        "global_id": 18,
+        "local_id": 0,
+        "name":"milk",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": false
+    },
+    "canned_soup":{
+        "global_id": 19,
+        "local_id": 0,
+        "name":"canned_soup",
+        "receptacle": "NOT AVAILABLE",
+        "room": "NOT AVAILABLE",
+        "fragile": false,
+        "dirty": false
+    },
+    "watering_can":{
+        "global_id": 20,
+        "local_id": 0,
+        "name":"watering_can",
+        "receptacle": "cupboard",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": false
+    },
+    "canned_stew":{
+        "global_id": 21,
+        "local_id": 0,
+        "name":"canned_stew",
+        "receptacle": "drawer",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": false
+    },
+    "medicine_box":{
+        "global_id": 22,
+        "local_id": 0,
+        "name":"medicine_box",
+        "receptacle": "cupboard",
+        "room": "bedroom",
+        "fragile": false,
+        "dirty": false
+    },
+    "tea":{
+        "global_id": 23,
+        "local_id": 0,
+        "name":"tea",
+        "receptacle": "drawer",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": false
+    },
+    "bread":{
+        "global_id": 24,
+        "local_id": 0,
+        "name":"bread",
+        "receptacle": "drawer",
+        "room": "pantry",
+        "fragile": false,
+        "dirty": false
+    },
+    "butter":{
+        "global_id": 25,
+        "local_id": 0,
+        "name":"butter",
+        "receptacle": "fridge",
+        "room": "kitchen",
+        "fragile": false,
+        "dirty": false
+    }
+}
