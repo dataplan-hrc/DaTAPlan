@@ -1,1 +1,1 @@
-gemini_api = 'AIzaSyDnvQqnIzN14nI10DJlEKJKi5honY8hUMc'
+gemini_api = '<your-api-key>'
