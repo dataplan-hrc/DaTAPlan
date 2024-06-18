@@ -12,7 +12,7 @@ genai.configure(api_key=gemini_api)
 cur_dir = os.path.dirname(os.path.abspath(__file__))
 print(cur_dir)
 
-user_work = 'The user has woken and freshened self.' # Sentence that relates to what the user is currently performing
+user_work = 'The user has an urgent meeting' # Sentence that relates to what the user is currently performing
 
 f = open(cur_dir+"/json_files/object_2.json", "r")
 objects = json.load(f)
